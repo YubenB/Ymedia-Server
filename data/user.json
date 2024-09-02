@@ -1,0 +1,29 @@
+ [
+      {
+        "username": "john_doe",
+        "email": "john.doe@example.com",
+        "password": "secret1"
+      },
+      {
+        "username": "jane_smith",
+        "email": "jane.smith@example.com",
+        "password": "unknown2"
+      },
+      {
+        "username": "sam_wilson",
+        "email": "sam.wilson@example.com",
+        "password": "error404"
+      },
+      {
+        "username": "emma_jones",
+        "email": "emma.jones@example.com",
+        "password": "qwerty7"
+      },
+      {
+        "username": "mike_brown",
+        "email": "mike.brown@example.com",
+        "password": "inipassword1"
+      }
+]
+  
+  
